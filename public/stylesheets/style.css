@@ -1,0 +1,121 @@
+/* File name - style.css
+ Author - Nabanita Saha
+ Student id - 301321662
+ Date - Oct 02, 2023  */
+
+body {
+  font-family: "Arial", sans-serif; /* Change font family */
+  font-size: 19px; /* Change font size */
+  padding-right: 50px;
+  padding-left: 50px;
+  background-image: url("../images/bg.jpg");
+  background-size: cover;
+  opacity: 1;
+  line-height: 1.5;
+}
+
+a {
+  color: rgb(124, 58, 71);
+}
+footer {
+  background-color: rgb(17, 71, 14);
+  opacity: 0.9;
+  font-size: 14px;
+  text-align: center;
+  padding: 0.5em 0.5em;
+  color: rgb(219, 192, 84);
+}
+#languageLogo {
+  font-size: 100px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.7cm;
+}
+#aboutText {
+  font-size: 24px;
+  font-weight: bolder;
+  color: rgb(21, 99, 17);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.9;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#textLarge {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+
+  color: rgb(239, 239, 166);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.9;
+}
+div {
+  background-color: rgb(243, 204, 153);
+  opacity: 1;
+}
+
+form {
+  margin-left: 5cm;
+}
+#projects {
+  color: #19562b;
+  border-style: solid;
+  border-color: rgb(12, 84, 30);
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2px 3px rgb(184, 80, 80);
+  text-align: center;
+  margin: 40px;
+}
+#footerLogo {
+  font-size: 40px;
+  text-align: center;
+}
+
+#contactLogo {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(20, 81, 31);
+  background-color: rgb(185, 134, 61);
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label {
+  float: left;
+  width: 250px;
+  text-align: right;
+}
+
+fieldset {
+  background-color: rgb(23, 82, 46);
+  display: block;
+  opacity: 0.9;
+  text-align: center;
+  font-family: "Arial", sans-serif; /* Change font family */
+  font-size: 19px; /* Change font size */
+  color: rgb(185, 134, 61);
+}
+
+.navbar,
+.navbar-nav,
+.navbar-expand-sm {
+  background-color: rgb(17, 80, 13);
+  opacity: 0.9;
+}
